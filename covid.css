@@ -1,0 +1,169 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: white;
+  }
+  
+  /*--- navigation bar ---*/
+  
+  .navbar {
+    background:#004466;
+  }
+  
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+
+  }
+  
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  
+  .nav-link:hover {
+    color: #66ffb3
+    ;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+  /*---------------navbar finished ------------*/
+
+/*----------- Header starts ------------------ */
+.btn{
+  background:#66ffb3;
+  border-radius:20px;
+}
+
+.header{
+  background:#004466;
+ /* height: 420px; */
+ padding-bottom: 180px;
+
+}
+.covid{
+  margin-left: 20px;
+  margin-top: 150px;
+
+}
+
+
+
+  .img-fluid{
+    height: 380px;
+    width: 480px;
+    margin-top: 80px;
+  }
+
+ .spread{
+   margin-top: 70px;
+   text-align: center;
+   margin-bottom: 30px;
+
+ }
+
+ .transmission{
+  text-align: center;
+ 
+ }
+.contact{
+  text-align: center;
+
+}
+
+ .human{
+  text-align: center;
+
+ }
+
+ .what{
+   margin-top: 90px;
+ }
+
+ .droplets{
+  margin-top:30px ;
+
+ }
+
+  .abc{
+    margin-top: 10px;
+  }
+
+  .symptoms{
+    text-align: center;
+    margin-top: 40px;
+
+  }
+#idea{
+  background:#004466;
+  /* height: 660px; */
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+
+
+}
+
+
+.cough{
+  background: white;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.prevention{
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 80px;
+
+
+}
+
+
+.pre{
+  text-align: center;
+}
+
+.form{
+  text-align: center;
+padding-bottom: 10px;
+}
+
+#touch{
+  background:#dcdfe3;
+  padding-top: 40px;
+  margin-top: 50px;
+  padding-bottom: 30px;
+
+
+}
+#send{
+  width: 80px;
+  margin-left: 22px;
+margin-top: 10px;
+color: black;
+}
+
+.page-footer{
+  background:#004466;
+  padding-top:70px;
+  padding-bottom: 40px;
+
+}
+
+.page-footer p{
+  color: white;
+}
+
+.pages,a{
+  color: white;
+}
+
+ .copy{
+   text-align: center;
+   margin-top: 50px;
+
+} 
